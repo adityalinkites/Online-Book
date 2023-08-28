@@ -1,0 +1,56 @@
+.tableDesign{
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.492);
+    display: grid;
+}
+
+.UserTitle{
+    color: white;
+    font-weight: bolder;
+    background-color: rgb(25, 25, 28);
+    display: grid;
+    padding: 20px;
+    justify-content: center;
+    
+}
+
+.table{
+    border-radius: 5px;
+    border-radius: 10px;
+    align-items: center;
+    justify-items: center;
+}
+
+.user-img{
+    border-radius: 30px;
+}
+
+.table,th,td {
+    padding: 15px;
+    padding-top: 5px;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+    justify-content: center;
+}
+.form-search{
+    background-color: rgb(25, 25, 28);
+}
+
+.form-search input{
+    width: 60%;
+    margin-left: 440px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    height: 100vh; /* Set the container height, for example, to the full viewport height */
+  }
+
+.btn{
+    
+}

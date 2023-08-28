@@ -1,0 +1,74 @@
+.List{
+    padding: 10px;
+    margin-top: 2px;
+    margin-left: 0px;
+    background-color: black;
+}
+.list-2{
+  justify-content: center;
+  margin-left: 67px;
+}
+
+.search{
+  margin-left: 900px;
+}
+
+.card{
+    margin-top: 20px;
+    background-color: rgba(10, 10, 10, 0.829);
+    border-color: black;
+    border-width: 2px;
+    padding: 10px;
+    justify-content: center;
+}
+.card-wrap{
+    padding: 35px;
+    margin-left: 20px;
+    justify-content: center;
+}
+.addToCart{
+  color: white;
+  width: 100%;
+    font-weight: bold;
+    border-color: rgba(250, 235, 215, 0.873);
+    padding: 7px;
+    justify-content: center;
+    border-radius: 4px;
+    margin-top: 30px;
+    background-color: rgba(61, 63, 58, 0.634);
+}
+
+.addToCart:hover{
+  background-color: rgb(0, 149, 255);
+  border-color: black;
+}
+
+.card-body {
+    height: 380px; /* Set your desired fixed height */
+  }
+.card-title{
+  color: rgb(255, 255, 255);
+}
+
+  .card-container {
+    display: flex;
+    flex-direction: column;
+    height: 400px; /* Set your desired fixed height */
+  }
+
+  .form-inline{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .form-inline input{
+    width: 70%;
+  }
+
+  .list-btn{
+    justify-content: center;
+    margin-top: 10px;
+    padding-top: 20px;
+  }
+
+  

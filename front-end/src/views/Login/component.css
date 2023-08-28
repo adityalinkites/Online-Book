@@ -1,0 +1,65 @@
+.login-wrapper{
+    width: 40%;
+    height: 600px;;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    display: grid;
+    margin-left: 530px;
+}
+
+.login-form {
+    align-items: center;
+    justify-items: center;
+    display:grid;
+    border-radius: 10px;
+    background-image: url("../Dashboard/images/cube.jpg");
+    background-color: black;
+    border-color: black;
+    background-size: cover;
+    padding: 20px;
+    height: 80%;
+    padding-top: 20px;
+    padding-bottom: 50px; 
+    background-size: cover;
+    visibility: inherit;
+}
+
+.login-form input {
+    background-color: rgba(55, 55, 55, 0.727); /* Adjust the last value (0.5) for opacity */
+    padding: 5px; /* Adjust padding as needed */
+    border: 1px solid #fdffffaf;
+    border-radius: 3px;
+    filter: brightness(0.4);
+    text-decoration: rgb(23, 22, 22);
+}
+
+.login-form-group{
+    width: 90%;
+    font-weight: bold;
+    color: rgb(255, 249, 249);
+    font-size: x-large;
+}
+
+.login-title{
+    font-weight: bolder;
+    color: rgb(255, 250, 250);
+    display: flex;   
+    align-items: center;     
+    justify-content: center; 
+    font-size: xx-large;
+    border-radius: 3px;
+    font-weight: 600;
+    background-color: #434f518d;
+    width: 100%;
+}
+.form-control{
+    color: rgb(9, 9, 9);
+    background-color: rgba(255, 255, 255, 0.067);
+    border: 1px solid #202020d1;
+    width: 100%;
+}
+
+hr.solid {
+    border-top: 4px solid #000000;
+  }
+  

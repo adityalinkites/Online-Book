@@ -1,0 +1,68 @@
+.Add-wrapper{
+    padding: 80px;
+    background-color: black;
+}
+
+.Add-form {
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 10px;
+    background-image: url("../Dashboard/images/paper.jpg");
+    border-color: black;
+    background-size: cover;
+    padding: 20px;
+    height: 80%;
+    padding-top: 20px;
+    padding-bottom: 50px; 
+    background-size: cover;
+    filter: brightness(0.8);
+}
+
+.Add-form input {
+    background-color: rgb(46, 46, 46); /* Adjust the last value (0.5) for opacity */
+    padding: 5px; /* Adjust padding as needed */
+    border: 1px solid #fffdfdaf;
+    border-radius: 3px;
+    filter: brightness(0.4);
+    text-decoration: rgb(251, 251, 251);
+    color: aliceblue;
+}
+
+.Add-form-group{
+    font-weight: bold;
+    color: white;
+
+}
+
+.Add-title{
+    display: flex;   
+    align-items: center;     
+    justify-content: center; 
+    font-size: xx-large;
+    border-radius: 3px;
+    font-weight: 600;
+    background-color: #33333235;
+}
+.form-control{
+    color: white;
+    text-emphasis-color: white;
+    background-color: rgba(255, 255, 255, 0.067);
+    border: 1px solid #fffdfd3c;
+}
+
+hr.solid {
+    border-top: 4px solid #000000;
+    lighting-color: #f93408;
+    visibility: none;
+}
+
+.card-wrap{
+    display: inline-block;
+    margin: 10px;
+}
+
+.radio-box{
+    font-weight: bold;
+    padding: 6px;
+    display: inline;
+}

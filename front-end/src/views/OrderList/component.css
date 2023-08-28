@@ -1,0 +1,12 @@
+.read{
+    justify-content: center;
+    display: grid;
+}
+
+.read-btn{
+    padding: 5px;
+    width: 90px;
+    border-radius: 4px;
+    font-weight: bold;
+
+}

@@ -1,0 +1,16 @@
+.form-inline{
+    size: 20px;
+    padding-right: 5px;
+    align-items: end;
+    align-content: end;
+    justify-items: end;
+    margin-left: 850px;
+
+}
+
+.form-inline input{
+    height: 37px;
+    width: 600px;
+    border-radius: 5px;
+    border-width: 3px;
+}
