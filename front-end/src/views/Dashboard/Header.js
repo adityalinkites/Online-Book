@@ -13,7 +13,7 @@ function Header() {
   }
 
   function Login() {
-    navigate("/Login")//hkjjhkkjkjk
+    navigate("/Login")
   }
 
   return (

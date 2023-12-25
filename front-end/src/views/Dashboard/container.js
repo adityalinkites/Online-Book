@@ -9,7 +9,7 @@ const SingleUserContainer = connect(
   }),
   // Map actions to dispatch and props
   {
-    SingleUserAPI,// change to see i can push the code
+    SingleUserAPI,
   }
 )(Navbar)
 
