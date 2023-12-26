@@ -17,10 +17,6 @@ function AddComicComponent(props) {
     const token = localStorage.getItem("token");
     const role  = localStorage.getItem("role");
     const {addComic, AddComicAPI } = props
-    // console.log(addComic);
-
-
-
     useEffect(() => {
         if(!token || role === "user"){
             navigate("/Login")
